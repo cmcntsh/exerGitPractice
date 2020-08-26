@@ -22,7 +22,7 @@
 * [ ] Save the file and open a terminal window.
 * [ ] In your terminal window, `cd` to your `myProject` folder.
 * [ ] Run `git init`. (Initializes your folder for tracking changes with git.)
-* [ ] Go to your new repository on GitHub and copy the address shown when you click the 'Clone or download' button.
+* [ ] Go to your new repository on GitHub and copy the address shown when you click the 'Clone or download' button. (Instead it may be the address in the Quick setup window. The address should be the same either way. It should look something like https://github.com/yourusername/yourrepositoryname.git .)
 * [ ] Run `git remote add origin [Repository URL goes here]`. (This stores the address for your GitHub repository with your local repository.)
   * (If you accidentally DID initialize your repository with a README, you must do a `git pull origin master` first - to get the README file on your computer - before you'll be able to push.) 
 
