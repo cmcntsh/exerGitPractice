@@ -1,4 +1,5 @@
 # Practice using git and GitHub
+Hello
 
 ## Summary of Steps to Complete (See corresponding sections below.)
 - [ ] 1. Create a GitHub repository, link it to your computer, push your local changes to your GitHub repository.
