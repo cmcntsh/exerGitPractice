@@ -4,7 +4,7 @@ This is the change I am making for the assignment. I hope it works.
 - [ ] 1. Create a GitHub repository, link it to your computer, push your local changes to your GitHub repository.
 - [ ] 2. Fork a repository so you can work on your own copy.
 - [ ] 3. Create a "Pull Request" so your changes can be added to the original project.
-
+This is the second change I am making for the next step of the assignment
 ## 1. Starting a GitHub repository.
 
 ### Creating the repository on GitHub
