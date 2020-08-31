@@ -80,3 +80,6 @@ If groups of individuals are working on the same project and everyone pushes cod
 
 ## Original material
 https://github.com/wlh18/learn-git
+
+## Changes for this fork made by
+Catherine Turcotte
