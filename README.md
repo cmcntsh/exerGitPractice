@@ -51,7 +51,7 @@
 * [ ] Run `git clone [the url you copied]`. (That copies the repository from your account on GitHub to your computer so you can make changes.)
 
 ### Make a change in your file and push it to GitHub
-
+2nd Change
 * [ ] Open the folder in your coding IDE.
 * [ ] Make a change in a file.
 * [ ] Run through the steps outlined in `Step 3` of the first project ( status, diff, add, commit, push ).
