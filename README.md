@@ -60,7 +60,7 @@
 ## 3. Creating a pull request (and some extra practice cloning a repository to your computer)
 
 ### Delete and re-clone
-
+3rd change (actually it's my 2nd change)
 * [ ] Delete the folder on your computer for the forked repository.
 * [ ] Re-clone the fork to your folder where you keep work for this class.
 * [ ] Make a change to any file.
