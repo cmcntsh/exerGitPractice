@@ -35,6 +35,7 @@
 * [ ] Run `git commit -m "The sentence I want associated with this commit message"`. (This prepares the changes to be pushed to GitHub and logs the message you specify.)
 * [ ] Run `git push origin master` (Your code is now pushed to GitHub. Be sure to include `origin master`, as this tells GitHub which branch you want to push to, and creates the branch if it doesn't exist yet.)
 * [ ] Go to your repository on GitHub and see your updates.
+![Commands Screenshot](https://github.com/cmcntsh/exerGitPractice/blob/master/gitPracticeSample.png?raw=true)
 
 ## 2. Fork a repository
 
