@@ -36,7 +36,7 @@
 * [ ] Run `git push origin master` (Your code is now pushed to GitHub. Be sure to include `origin master`, as this tells GitHub which branch you want to push to, and creates the branch if it doesn't exist yet.)
 * [ ] Go to your repository on GitHub and see your updates.
 ![Commands Screenshot](https://github.com/cmcntsh/exerGitPractice/blob/master/gitPracticeSample.png?raw=true)
-(You can also see the pdf instruction sheets with screenshots included in this repository.)
+* (You can also see the pdf instruction sheets with screenshots included in this repository.)
 
 ## 2. Fork a repository
 
