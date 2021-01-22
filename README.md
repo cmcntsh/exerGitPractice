@@ -59,7 +59,7 @@
 * [ ] Run through the steps outlined in `Step 3` of the first project ( status, diff, add, commit, push ).
   * Since you've cloned this repository, it is already pointing to your forked version. Therefore, you don't need to tell your computer where to push the code.
 
-## 3. Creating a pull request (and some extra practice cloning a repository to your computer)
+## 3. Creating a pull request (and some extra practice cloning a repository to your computer) (Statistics students can skip this part.)
 
 ### Delete and re-clone
 
