@@ -53,7 +53,7 @@
 ### Make a change in your file and push it to GitHub
 
 * [ ] Open the folder in your coding IDE.
-* [ ] Make a change in a file.
+* [ ] Make a change in a file. this is where I am making a change
 * [ ] Run through the steps outlined in `Step 3` of the first project ( status, diff, add, commit, push ).
   * Since you've cloned this repository, it is already pointing to your forked version. Therefore, you don't need to tell your computer where to push the code.
 
