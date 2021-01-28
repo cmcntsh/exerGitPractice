@@ -1,3 +1,7 @@
+
+###Completed for Stats for Informatics on 1/28/21
+
+
 # Practice using git and GitHub
 This is the change I am making for the assignment. I hope it works.
 ## Summary of Steps to Complete (See corresponding sections below.)
@@ -81,3 +85,8 @@ If groups of individuals are working on the same project and everyone pushes cod
 
 ## Original material
 https://github.com/wlh18/learn-git
+
+
+
+
+###Completed for Stats for Informatics on 1/28/21
