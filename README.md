@@ -12,13 +12,19 @@
 * [ ] Sign in to GitHub: https://github.com/
 * [ ] On the right side of the page, click on the `New repository` button.
 * [ ] Give your repository any name you like and make sure that the repository is public.
-* [ ] Also make sure that the `Initialize this repository with a README` is <b>NOT</b> checked.
+* [ ] You can go ahead and check the option to initialize the repository with a README.md file.
 
 ### Link your local repository to the GitHub repository
 
 * [ ] Create a folder in the place you keep material for this class called `myProject`.
 * [ ] Go into that folder.
 * [ ] Create a file called `myName.txt` and add your name to that file.
+ * [ ] Windows open command line: https://www.youtube.com/watch?v=2KOFRYDMv4A&list=PLYmfkjWhXgi6bdFbdOpXIpW1LQuFOgCkQ&index=3
+ * [ ] Windows navigate directories from command line: https://www.youtube.com/watch?v=rfgH2lN6MzE&list=PLYmfkjWhXgi6bdFbdOpXIpW1LQuFOgCkQ&index=4
+ * [ ] Windows create empty file from command line: https://www.youtube.com/watch?v=rd2O_Kr3GGI
+ * [ ] Mac open a terminal window: https://www.youtube.com/watch?v=QROX039ckO8
+ * [ ] Mac navigate directories from terminal windows: https://www.youtube.com/watch?v=j6vKLJxAKfw
+ * [ ] Mac create empty file from command line: https://www.youtube.com/watch?v=P2iDTBsh4ho or https://www.youtube.com/watch?v=RWLT_9l76Bc
 * [ ] Save the file and open a terminal window.
 * [ ] In your terminal window, `cd` to your `myProject` folder.
 * [ ] Run `git init`. (Initializes your folder for tracking changes with git.)
