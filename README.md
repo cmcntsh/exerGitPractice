@@ -24,18 +24,18 @@
   * [ ] Windows create empty file from command line: https://www.youtube.com/watch?v=rd2O_Kr3GGI
   * [ ] Mac open a terminal window: https://www.youtube.com/watch?v=QROX039ckO8
   * [ ] Mac navigate directories from terminal windows: https://www.youtube.com/watch?v=j6vKLJxAKfw
-  * [ ] Mac create empty file from command line: https://www.youtube.com/watch?v=P2iDTBsh4ho or https://www.youtube.com/watch?v=RWLT_9l76Bc
+  * [ ] Mac create empty file from command line: https://www.youtube.com/watch?v=P2iDTBsh4ho or https://www.youtube.com/watch?v=RWLT_9l76Bc or https://www.youtube.com/watch?v=J1goN2FVoIo
 * [ ] Save the file and open a terminal window.
 * [ ] In your terminal window, `cd` to your `myProject` folder.
 * [ ] Run `git init`. (Initializes your folder for tracking changes with git.)
 * [ ] Go to your new repository on GitHub and copy the address shown when you click the 'Clone or download' button. (Instead it may be the address in the Quick setup window. The address should be the same either way. It should look something like https://github.com/yourusername/yourrepositoryname.git .)
 * [ ] Run `git remote add origin [Repository URL goes here]`. (This stores the address for your GitHub repository with your local repository.)
-  * (If you accidentally DID initialize your repository with a README, you must do a `git pull origin master` first - to get the README file on your computer - before you'll be able to push.) 
+  * (If you DID initialize your repository with a README, you must do a `git pull origin master` first - to get the README file on your computer - before you'll be able to push.) 
 
 ### Push your local code to GitHub
 
 * [ ] Open a terminal window and make sure it is in the directory of `myProject`.
-* [ ] Run `git add nameOfMyFile.fileExtension`. (This tells git you want to track changes on that file and adds it to the staging area.)
+* [ ] Run `git add nameOfMyFile.fileExtension`. (This tells git you want to track changes on that file and adds it to the staging area.) or you can run `git add .` to add all files.
 * [ ] Run `git status`. (This will show what has changed in git.)
 * [ ] Run `git diff`. (This shows what code has changed in the file.)
 * [ ] Run `git commit -m "The sentence I want associated with this commit message"`. (This prepares the changes to be pushed to GitHub and logs the message you specify.)
