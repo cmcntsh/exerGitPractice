@@ -30,16 +30,17 @@
 * [ ] Run `git init`. (Initializes your folder for tracking changes with git.)
 * [ ] Go to your new repository on GitHub and copy the address shown when you click the 'Clone or download' button. (Instead it may be the address in the Quick setup window. The address should be the same either way. It should look something like https://github.com/yourusername/yourrepositoryname.git .)
 * [ ] Run `git remote add origin [Repository URL goes here]`. (This stores the address for your GitHub repository with your local repository.)
-  * (If you DID initialize your repository with a README, you must do a `git pull origin master` first - to get the README file on your computer - before you'll be able to push.) 
+  * (If you DID initialize your repository with a README, you must do a `git pull origin main --allow-unrelated-histories` first - to get the README file on your computer - before you'll be able to push.) 
 
 ### Push your local code to GitHub
 
+2021 update: GitHub has changed the default name for the main repository from "master" to "main". I'm trying to replace all instances of "master" with "main" in instructions for this course. If I miss any, use the word "main" instead of "master". It's possible you'll see older screen shots with old terminology.
 * [ ] Open a terminal window and make sure it is in the directory of `myProject`.
 * [ ] Run `git add nameOfMyFile.fileExtension`. (This tells git you want to track changes on that file and adds it to the staging area.) or you can run `git add .` to add all files.
 * [ ] Run `git status`. (This will show what has changed in git.)
 * [ ] Run `git diff`. (This shows what code has changed in the file.)
 * [ ] Run `git commit -m "The sentence I want associated with this commit message"`. (This prepares the changes to be pushed to GitHub and logs the message you specify.)
-* [ ] Run `git push origin master` (Your code is now pushed to GitHub. Be sure to include `origin master`, as this tells GitHub which branch you want to push to, and creates the branch if it doesn't exist yet.)
+* [ ] Run `git push origin main` (Your code is now pushed to GitHub. Be sure to include `origin main`, as this tells GitHub which branch you want to push to, and creates the branch if it doesn't exist yet.)
 * [ ] Go to your repository on GitHub and see your updates.
 ![Commands Screenshot](https://github.com/cmcntsh/exerGitPractice/blob/master/gitPracticeSample.png?raw=true)
 * (You can also see the pdf instruction sheets with screenshots included in this repository.)
