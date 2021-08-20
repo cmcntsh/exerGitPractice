@@ -81,7 +81,7 @@ If groups of individuals are working on the same project and everyone pushes cod
 
 ### Create a pull request (optional)
 
-This part is optional. I'm leaving these instructions here so you are aware about cloning. We won't be working with this functionality this semester. But feel free to try it out if you want.
+This part is optional. I'm leaving these instructions here so you are aware about pull requests. But we won't be working with this functionality this semester. Feel free to try it out if you want.
 
 * [ ] Go to your forked repo on GitHub.
 * [ ] Locate the button that says `Pull Request` and click it.
