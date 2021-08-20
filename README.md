@@ -34,13 +34,13 @@
 
 ### Push your local code to GitHub
 
-2021 update: GitHub has changed the default name for the main repository from "master" to "main". I'm trying to replace all instances of "master" with "main" in instructions for this course. If I miss any, use the word "main" instead of "master". It's possible you'll see older screen shots with old terminology.
+2021 update: GitHub has changed the default name for the main repository from "master" to "main". I'm trying to replace all instances of "master" with "main" in instructions for this course. If I miss any, use the word "main" instead of "master". It's possible you'll see older screen shots with old terminology. There may be some errors with these changes. Here's a resource on StackOverflow which explains some of it. https://stackoverflow.com/questions/65173291/git-push-error-src-refspec-main-does-not-match-any-on-linux
 * [ ] Open a terminal window and make sure it is in the directory of `myProject`.
 * [ ] Run `git add nameOfMyFile.fileExtension`. (This tells git you want to track changes on that file and adds it to the staging area.) or you can run `git add .` to add all files.
 * [ ] Run `git status`. (This will show what has changed in git.)
 * [ ] Run `git diff`. (This shows what code has changed in the file.)
 * [ ] Run `git commit -m "The sentence I want associated with this commit message"`. (This prepares the changes to be pushed to GitHub and logs the message you specify.)
-* [ ] Run `git push origin main` (Your code is now pushed to GitHub. Be sure to include `origin main`, as this tells GitHub which branch you want to push to, and creates the branch if it doesn't exist yet.)
+* [ ] Run `git push origin main` (Your code is now pushed to GitHub. Be sure to include `origin main`, as this tells GitHub which branch you want to push to, and creates the branch if it doesn't exist yet.) If you get an error, it could be because the `git init` statement you ran earlier gave your repository the default name of "master". You can rename your local repository by running the command `git branch -m master main` then try the command `git push -u origin main`
 * [ ] Go to your repository on GitHub and see your updates.
 ![Commands Screenshot](https://github.com/cmcntsh/exerGitPractice/blob/master/gitPracticeSample.png?raw=true)
 * (You can also see the pdf instruction sheets with screenshots included in this repository.)
