@@ -79,7 +79,9 @@
 
 If groups of individuals are working on the same project and everyone pushes code to one repo without verifying the quality of the code, things can get messy pretty quick. GitHub fixed this solution with 'Pull Requests.' Basically, you fork a project, make changes to your fork, then you make a Pull Request (PR) back into the original project requesting that some piece of code be added to the original repo. This is how the vast majority of open source code projects work. In this step, we will make a pull-request.
 
-### Create a pull request
+### Create a pull request (optional)
+
+This part is optional. I'm leaving these instructions here so you are aware about cloning. We won't be working with this functionality this semester. But feel free to try it out if you want.
 
 * [ ] Go to your forked repo on GitHub.
 * [ ] Locate the button that says `Pull Request` and click it.
