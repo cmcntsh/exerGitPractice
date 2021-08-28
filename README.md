@@ -45,6 +45,23 @@
 ![Commands Screenshot](https://github.com/cmcntsh/exerGitPractice/blob/master/gitPracticeSample.png?raw=true)
 * (You can also see the pdf instruction sheets with screenshots included in this repository.)
 
+Here's a short summary of the steps to successfully clone your repository. If you encounter a problem check if you missed any of these steps.
+
+1. Sign in to GitHub
+1. Create a new repository with a README.md file
+1. Create a folder on your computer where you want to put this assignment. (I called mine createTest)
+1. Create a file in that folder called myName.txt
+1. Open a terminal in that folder
+1. git init
+1. Copy the address for your repository on GitHub
+1. git remote add origin [Repository URL goes here]
+1. git pull origin main --allow-unrelated-histories
+1. git add .
+1. git commit -m "First commit sentence."
+1. git branch -m master main
+1. git push -u origin main
+1. Refresh the window for your repository on GitHub and see your updates. You should now see your .txt file in your repository.
+
 ## 2. Fork a repository
 
 ### Fork the repository into your own account on GitHub
