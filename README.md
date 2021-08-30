@@ -77,7 +77,7 @@ Here's a short summary of the steps to successfully clone your repository. If yo
 * [ ] Run `git clone [the url you copied]`. (That copies the repository from your account on GitHub to your computer so you can make changes.)
 
 ### Make a change in your file and push it to GitHub
-
+2nd Change
 * [ ] Open the folder in your coding IDE.
 * [ ] Make a change in a file.
 * [ ] Run through the steps outlined in `Step 3` of the first project ( status, diff, add, commit, push ).
@@ -86,7 +86,7 @@ Here's a short summary of the steps to successfully clone your repository. If yo
 ## 3. Creating a pull request (and some extra practice cloning a repository to your computer) (Statistics students can skip this part.)
 
 ### Delete and re-clone
-
+3rd change (actually it's my 2nd change)
 * [ ] Delete the folder on your computer for the forked repository.
 * [ ] Re-clone the fork to your folder where you keep work for this class.
 * [ ] Make a change to any file.
