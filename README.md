@@ -109,3 +109,5 @@ This part is optional. I'm leaving these instructions here so you are aware abou
 
 ## Original material
 https://github.com/wlh18/learn-git
+
+John was here :)
