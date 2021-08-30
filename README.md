@@ -1,10 +1,14 @@
-# Practice using git and GitHub
 
+###Completed for Stats for Informatics on 1/28/21
+
+
+# Practice using git and GitHub
+This is the change I am making for the assignment. I hope it works.
 ## Summary of Steps to Complete (See corresponding sections below.)
 - [ ] 1. Create a GitHub repository, link it to your computer, push your local changes to your GitHub repository.
 - [ ] 2. Fork a repository so you can work on your own copy.
 - [ ] 3. Create a "Pull Request" so your changes can be added to the original project.
-
+This is the second change I am making for the next step of the assignment
 ## 1. Starting a GitHub repository.
 
 ### Creating the repository on GitHub
@@ -109,3 +113,8 @@ This part is optional. I'm leaving these instructions here so you are aware abou
 
 ## Original material
 https://github.com/wlh18/learn-git
+
+
+
+
+###Completed for Stats for Informatics on 1/28/21
