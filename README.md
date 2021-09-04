@@ -82,6 +82,7 @@ Here's a short summary of the steps to successfully clone your repository. If yo
 * [ ] Make a change in a file.
 * [ ] Run through the steps outlined in `Step 3` of the first project ( status, diff, add, commit, push ).
   * Since you've cloned this repository, it is already pointing to your forked version. Therefore, you don't need to tell your computer where to push the code.
+  <h1> Aloha! Rohin here!</h1>
 
 ## 3. Creating a pull request (and some extra practice cloning a repository to your computer) (Statistics students can skip this part.)
 
@@ -109,3 +110,5 @@ This part is optional. I'm leaving these instructions here so you are aware abou
 
 ## Original material
 https://github.com/wlh18/learn-git
+
+&&&&&&&********((((((())))))))
