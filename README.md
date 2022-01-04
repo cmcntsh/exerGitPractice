@@ -62,6 +62,14 @@ Here's a short summary of the steps to successfully clone your repository. If yo
 1. git push -u origin main
 1. Refresh the window for your repository on GitHub and see your updates. You should now see your .txt file in your repository.
 
+* This can also be done directly in VSCode
+  * Create a new folder on your machine where you want to put this repository if you don't already have one you want to use.
+  * Copy the Clone or Download path for this repository from GitHub.
+  * In VSCode from the command pallette (Ctrl-Shift-P) run Git: Clone
+  * Paste the path into the path field which pops up
+  * Select your new folder you created on your machine
+  * A new folder for the repository with the repository files should be in the folder you selected showing in the Explorer window in VSCode on the left side.
+
 ## 2. Fork a repository
 
 ### Fork the repository into your own account on GitHub
@@ -75,6 +83,14 @@ Here's a short summary of the steps to successfully clone your repository. If yo
 * [ ] Click on the green `clone or download` button and copy the URL.
 * [ ] Open a terminal window and navigate to the folder where you keep work for this class.
 * [ ] Run `git clone [the url you copied]`. (That copies the repository from your account on GitHub to your computer so you can make changes.)
+
+* This can also be done directly in VSCode
+  * Create a new folder on your machine where you want to put this repository if you don't already have one you want to use.
+  * Copy the Clone or Download path for this repository from GitHub.
+  * In VSCode from the command pallette (Ctrl-Shift-P) run Git: Clone
+  * Paste the path into the path field which pops up
+  * Select your new folder you created on your machine
+  * A new folder for the repository with the repository files should be in the folder you selected showing in the Explorer window in VSCode on the left side.
 
 ### Make a change in your file and push it to GitHub
 
