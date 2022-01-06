@@ -72,6 +72,8 @@ Here's a short summary of the steps to successfully clone your repository. If yo
 
 ## 2. Fork a repository
 
+2022 update: I have created an alternate assignment which does not require the use of the command line. It describes how to work only in GitHub using the web interface or working on your own machine using VSCode after you have git and VSCode installed. It can be found here: https://github.com/cmcntsh/gitHubForClassAssignments
+
 ### Fork the repository into your own account on GitHub
 
 * [ ] On this current GitHub repository, scroll to the top and look for a button that says `fork`.
